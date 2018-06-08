@@ -46,7 +46,7 @@ const SVG_ATTS = ['viewBox', 'width', 'height'];
 const G_ATTS = ['id', 'fill'];
 
 const CIRCLE_ATTS = ['cx', 'cy', 'r'];
-const PATH_ATTS = ['d'];
+const PATH_ATTS = ['d', 'fillRule', 'clipRule'];
 const RECT_ATTS = ['width', 'height'];
 const LINE_ATTS = ['x1', 'y1', 'x2', 'y2'];
 const LINEARG_ATTS = LINE_ATTS.concat(['id', 'gradientUnits']);
