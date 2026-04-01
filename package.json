@@ -20,7 +20,7 @@
   "author": "Matias Cortes",
   "license": "ISC",
   "dependencies": {
-    "xmldom": "^0.1.22",
+    "xmldom": "^0.6.0",
     "prop-types": "^15.6.0"
   },
   "peerDependencies": {
